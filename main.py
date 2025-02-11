@@ -24,3 +24,4 @@ druha_vstupni_promenna = input("Zadejte číslo: ")
 
 # print() nám vypíše do konzole, co uživatel zadal do inputu
 print(vstupni_promenna, druha_vstupni_promenna)
+
